@@ -1,0 +1,5 @@
+name = "Jedrick"
+age = 20
+
+print("Hello, World!")
+print(f"My name is {Jedrick} and I am {20} years old.")
